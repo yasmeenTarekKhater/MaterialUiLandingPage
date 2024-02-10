@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "title":"Best one",
+        "price":"900$",
+        "src":"./b1.webp"
+    },
+    {
+        "id":2,
+        "title":"Best two",
+        "price":"1600$",
+        "src":"./b2webp.webp"
+    }
+]

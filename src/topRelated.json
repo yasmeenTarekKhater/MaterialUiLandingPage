@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "title":"TopRelated one",
+        "price":"400$",
+        "src":"./65527855_000_c.webp"
+    },
+    {
+        "id":2,
+        "title":"TopRelated two",
+        "price":"600$",
+        "src":"./69377729_008_d.jpg"
+    }
+]
