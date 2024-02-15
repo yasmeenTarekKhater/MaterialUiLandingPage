@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"Speed",
+        "src":"./speed2.jpg"
+    },
+    {
+        "id":2,
+        "title":"Quality",
+        "src":"./quality.jpg"
+    },
+    {
+        "id":3,
+        "title":"Credibility",
+        "src":"./trust.jpeg"
+    },
+    {
+        "id":4,
+        "title":"Satisfying the Customer",
+        "src":"./satisfy.webp"
+    },
+    {
+        "id":5,
+        "title":"Transparency",
+        "src":"./transparency.webp"
+    }
+]

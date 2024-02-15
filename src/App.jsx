@@ -6,6 +6,8 @@ import Header from './components/Header'
 import ShopCollection from './components/ShopCollection';
 import Subscribe from './components/Subscribe';
 import Trending from './components/Trending';
+import Target from './components/target';
+import { addBackToTop } from 'vanilla-back-to-top'
 
 function App() {
 
@@ -16,7 +18,10 @@ function App() {
       <Cards/>
       <Trending/>
       <Subscribe/>
+      <Target/>
+       {addBackToTop({ scrollDuration:2000})}
       <Footer/>
+     
     </>
   )
 }
